@@ -1,1 +1,2 @@
-# CypherCresentAcademy-Projects-class5-assigment
+# CypherCresentAcademy-class5-assigment
+These are answers to Conditional Statement Assignment
